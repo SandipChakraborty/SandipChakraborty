@@ -8,9 +8,9 @@ Experienced Software Engineer with a demonstrated history of working in the info
  > Java, Angular 4, Spring Framework, and RESTful WebServices, Hibernate, Spring MVC
 
 - 💻 Work Experiences:
-    > <b>Lexmark International(Asia Pacific)</b> | Software Engineer | Oct 2019-Present
+    > <b>Lexmark International(Asia Pacific)</b> | Software Engineer <b> B2</b> | Oct 2019-Present
 
-     > <b>Wipro Limited</b> | Software Engineer | Mar 2017-Oct 2019
+     > <b>Wipro Limited</b> | Software Engineer<b> B1</b> | Mar 2017-Oct 2019
 - ☀️ Hands on Experiences on projects based on:
   > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Framework | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Ruby on Rails | ML(python) | C | C++  
 - ✍️ Education :
