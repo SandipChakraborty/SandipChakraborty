@@ -1,4 +1,4 @@
-<img  height="480" src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/profile.jpeg">
+<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profile.jpeg">
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
 
@@ -35,9 +35,9 @@ Experienced Software Engineer with a demonstrated history of working in the info
   <i>Let's connect with each other on the given below links. Recruiters can use my Linkedin for more insights.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sandip-chakraborty-28b48bb6/" target="_blank" alt="Linkedin"><img src="https://github.com/sandeep/blob/master/readme/linkedin-fill.svg" ></a>
-    <a href="mailto:incoming.sandip@outlook.com" target="_blank" alt="Contact me"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/external-link-line.svg"></a>
-    <!-- <a href="https://ayshik-halder.github.io" target="_blank" alt="My site"><img src="readme/external-link-line.svg"></a> -->
+    <a href="https://www.linkedin.com/in/sandip-chakraborty-28b48bb6/" target="_blank" alt="Linkedin"><img src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/linkedin-fill.svg" ></a>
+    <a href="mailto:incoming.sandip@outlook.com" target="_blank" alt="Contact me"><img src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/external-link-line.svg"></a>
+   
   </p>
   
 </p>
