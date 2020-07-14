@@ -25,7 +25,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
     > - <a href="https://github.com/ayshik-halder/contactsCSVtoSQL">Restful Webservice</a> - <a href="https://github.com/ayshik-halder/Contacts-ui-ng">Angular4 Frontend</a>
   
   - Link to my Resume is given below :
-     >   <a href=""> Resume </a>
+     >   <a href="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/cv.pdf" alt =" It will be updated soon"> Resume </a>
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=SandipChakraborty&show_icons=true)
 </details>
