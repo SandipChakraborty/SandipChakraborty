@@ -10,7 +10,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
 - 💻 Work Experiences:
     > <b>Lexmark International(Asia Pacific)</b> | Software Engineer | Oct 2019-Present
 
-     > <b>Wipro Limited</b> | Project Engineer | Mar 2017-Oct 2019
+     > <b>Wipro Limited</b> | Software Engineer | Mar 2017-Oct 2019
 - ☀️ Hands on Experiences on projects based on:
   > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Framework | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Ruby on Rails | ML(python) | C | C++  
 - ✍️ Education :
@@ -25,7 +25,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
     > - <a href="https://github.com/ayshik-halder/contactsCSVtoSQL">Restful Webservice</a> - <a href="https://github.com/ayshik-halder/Contacts-ui-ng">Angular4 Frontend</a>
   
   - Link to my Resume is given below :
-     >   <a href="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/cv.pdf" alt =" It will be updated soon"> Resume </a>
+     >   <a href="https://raw.githubusercontent.com/SandipChakraborty/SandipChakraborty/master/readme/cv.pdf" alt =" It will be updated soon"> Resume </a>
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=SandipChakraborty&show_icons=true)
 </details>
