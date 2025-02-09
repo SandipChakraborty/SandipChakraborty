@@ -2,7 +2,7 @@
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
 
-I am a Software Engineer at Lexmark International (Asia Pacific).
+I am a Software Engineer at Walmart IDC.
 
 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Proficient and specialised in :
  > Java, Angular 4, Spring Framework, and RESTful WebServices, Hibernate, Spring MVC
