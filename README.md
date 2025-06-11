@@ -1,18 +1,18 @@
-<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profile.jpeg">
+<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profileNew.jpeg">
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
 
 I am a Software Engineer at Walmart IDC.
 
 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Proficient and specialised in :
- > Java, Angular 4, Spring Framework, and RESTful WebServices, Hibernate, Spring MVC
+ > Java, Spring Boot, and RESTful WebServices, Hibernate, Spring MVC, Kafka, Cloud, Azure Cosmos and so on...
 
 - 💻 Work Experiences:
-     > <b>Walmart</b> | Software Development Engineer <b>3</b> | Jan 2022-Present
+     > <b>Walmart</b> | Software Development Engineer <b>3</b> | Jan 2022 - June 2025
 
-     > <b>Lexmark International(Asia Pacific)</b> | Software Engineer <b> B2</b> | Oct 2019-Jan 2022
+     > <b>Lexmark International(Asia Pacific)</b> | Software Engineer <b> B2</b> | Oct 2019 - Jan 2022
 
-     > <b>Wipro Limited</b> | Software Engineer<b> B1</b> | Mar 2017-Oct 2019
+     > <b>Wipro Limited</b> | Software Engineer<b> B1</b> | Mar 2017 - Oct 2019
 - ☀️ Hands on Experiences on projects based on:
   > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Framework | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Ruby on Rails | ML(python) | C | C++  
 - ✍️ Education :
