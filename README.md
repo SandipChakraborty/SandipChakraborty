@@ -1,4 +1,4 @@
-<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profileNew.jpeg">
+<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profileNew.jpg">
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
 
