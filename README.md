@@ -1,5 +1,5 @@
 <div align="center">
-<img height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profileNew.jpg">
+<img height="580" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profileNew.jpg">
 </div>
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
