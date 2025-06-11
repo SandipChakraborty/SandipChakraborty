@@ -8,13 +8,16 @@ Experienced Software Engineer with a demonstrated history of working in the info
  > Java, Spring Boot, and RESTful WebServices, Hibernate, Spring MVC, Kafka, Cloud, Azure Cosmos and so on...
 
 - 💻 Work Experiences:
+     > <b>Morgan Stanley</b> | Senior Software Development Engineer | June 2025 - Present
+
      > <b>Walmart</b> | Software Development Engineer <b>3</b> | Jan 2022 - June 2025
 
      > <b>Lexmark International(Asia Pacific)</b> | Software Engineer <b> B2</b> | Oct 2019 - Jan 2022
 
      > <b>Wipro Limited</b> | Software Engineer<b> B1</b> | Mar 2017 - Oct 2019
 - ☀️ Hands on Experiences on projects based on:
-  > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Framework | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Ruby on Rails | ML(python) | C | C++  
+  > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Boot | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Cloud | Kafka | NoSql | Azure Cosmos | Kubernetes | Docker | CI-CD
+
 - ✍️ Education :
   > <b>Government College of engineering and Textile Technology</b> | B.Tech, Electrical Engineering | 2012-2016
 <details>
